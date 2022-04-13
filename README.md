@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=lulupang2&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulupang2&layout=compact)](https://github.com/lulupang2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulupang2)](https://github.com/lulupang2)
 <!--
 **lulupang2/lulupang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
